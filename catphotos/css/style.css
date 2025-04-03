@@ -1,4 +1,8 @@
 body{
-    background-color: aqua;
-    font-family: sans-serif;
+    background-color: rgba(167, 60, 60, 0.76);
+    font-family: 'Franklin Gothic Medium';
 }
+a{color: aliceblue;}
+h1{color: antiquewhite;font-family: cursive;}
+h2{color: aliceblue;}
+h3{color: aliceblue;}
